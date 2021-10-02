@@ -12,16 +12,6 @@ Recently I'm enjoying .. 🌱
 Recently I'm interested in .. 🔭
 
 1) Papers about GAN manipulation algorithms with a focus on neural rendering.
-2) Face to Webtoon translation techniques.
-3) Reflecting on my past project experiences handling 100 millions of records in a telco company.
-
-I am very much influenced by ..
-
-1) Andrew Ng
-2) Yannic Kilcher
-3) Francois Chollet
-4) Gary Marcus
-
 
 
 <!--
