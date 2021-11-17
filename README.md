@@ -2,7 +2,7 @@
 
 About Me
 
-I’m an AI Research Engineer from South Korea. I truly enjoy challenging and improving myself by learning new skills on a daily basis in order to be a full stack AI engineer, covering from formulating the problem to conducting research to deploying models with a focus on Data-centric mindset.
+I’m an AI Research Engineer from South Korea. I truly enjoy challenging and improving myself by learning new skills on a daily basis in order to be a full stack AI engineer, covering from formulating the problem to conducting research to deploying models with a focus on data-centric mindset.
 
 Recently I'm enjoying .. 🌱
 
