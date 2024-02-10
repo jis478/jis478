@@ -2,7 +2,7 @@
 
 About Me
 
-I’m an AI Research Engineer from South Korea. I truly enjoy challenging and improving myself by learning new skills on a daily basis in order to be a full stack AI engineer, covering from formulating the problem to conducting research to deploying models with a focus on data-centric mindset. You can reach out ot me at mark.kim@webtoonscorp.com.
+I’m an AI Research Engineer from South Korea. I truly enjoy challenging and improving myself by learning new skills on a daily basis in order to be a full stack AI engineer, covering from formulating the problem to conducting research to deploying models with a focus on data-centric mindset.
 
 <!--
 **jis478/jis478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
